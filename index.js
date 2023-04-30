@@ -1,3 +1,5 @@
+import React from "react";
+
 class MyHeader extends React.Component {
   render() {
     const mystyle = {
@@ -14,3 +16,5 @@ class MyHeader extends React.Component {
     );
   }
 }
+
+export default MyHeader;
