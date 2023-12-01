@@ -10,8 +10,9 @@ class MyHeader extends React.Component {
     };
     return (
       <div>
-      <h1 style={mystyle}>Hello Style!</h1>
-      <p>Add a little style!</p>
+        <h1 style={mystyle}>Hello Style!</h1>
+        <p>Add a little style!</p>
+        <p>New paragraph</p>
       </div>
     );
   }
