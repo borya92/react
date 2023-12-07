@@ -4,7 +4,8 @@ class Sidebar extends React.Component {
   render() {
     return (
       <div>
-        Sidebar
+        <p>First line</p>
+        <p>Second line</p>
       </div>
     );
   }
