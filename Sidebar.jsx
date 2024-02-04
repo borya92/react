@@ -7,7 +7,7 @@ class Sidebar extends React.Component {
         <p>First line</p>
         <p>Second line</p>
         <div>
-          <button type="button" id="superb" onClick={() => {}}Click me</button>} 
+          <button type="button" id="superb" onClick={() => {}}>Click me</button> 
         </div>
       </div>
     );
